@@ -1,4 +1,5 @@
 # Object detection using deep learning with OpenCV and Python 
+This is my implementation of object detection using OpenCV and python. The model I trained is specifically trained to recognize animals. Hoping that some non-profit organizations can use this in the future so categorize and identify endangered species (I know a non-profit that does this for the endangered kenya giraffe and thats how I got the idea). Depending on CPU, takes about .5 seconds to recognize each image so non-profits could use at a rate of 120 images/minute
 
 OpenCV `dnn` module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow. 
 
